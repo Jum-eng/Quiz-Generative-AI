@@ -10,7 +10,6 @@ topic of ‘Introduction to Generative AI’
 5. Explain the wrong answers
 6. Display the total marks with the student’s name
 
-7
 
 # Expected answers
 1. Create a prompt:
