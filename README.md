@@ -1,7 +1,7 @@
 # Quiz-Generative-AI
 Activity
-▪ Tasks:
-▪ The task is to develop a 5-question MCQ quiz application on the
+## Tasks:
+## The task is to develop a 5-question MCQ quiz application on the
 topic of ‘Introduction to Generative AI’
 1. Create a prompt.
 2. Input the name of the student.
