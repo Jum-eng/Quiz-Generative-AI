@@ -13,5 +13,5 @@ topic of ‘Introduction to Generative AI’
 
 # Expected answers
 Create a prompt: Expected prompt:
-Create a Python code for a quiz game with basic questions and 4 options on the topic of Introduction to Generative AI,
+Create a Python code for a quiz game with basic questions and 4 options on the topic of Introduction to Generative AI, where the user will select the answer from the option. 
 
